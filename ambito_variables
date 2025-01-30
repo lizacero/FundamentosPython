@@ -1,0 +1,11 @@
+var_global =10
+
+def Local():
+    var_local = 5
+    print(var_local)
+    global var_global
+    var_global=100
+    print(var_global)
+
+Local()
+print(var_global)
