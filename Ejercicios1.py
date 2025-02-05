@@ -1,4 +1,4 @@
-""" 1. Recibir el nombre del usuario por teclado y mostrar por pantalla "Hola (nombre)""""
+""" 1. Recibir el nombre del usuario por teclado y mostrar por pantalla "Hola (nombre)"""
 
 nombre = str(input("Escribe tu nombre "))
 print("Hola", nombre)

@@ -7,7 +7,7 @@ faltante = 0
 if rupias<30:
     faltante = 30- rupias
     print("Faltan",faltante,"rupias para comprar la poción")
-    print(f"No puedes comprar la poción, te faltan {30-rupias} rupias)  #Otra forma de escribirlo
+    print(f"No puedes comprar la poción, te faltan {30-rupias} rupias")  #Otra forma de escribirlo
 else:
     print("Puede comprar la poción")
 
