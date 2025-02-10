@@ -1,3 +1,5 @@
+#Ejercicios de colecciones y datos compuestos
+
 """ 1. Hacer un programa que permita añadir un número de armas seleccionado por el usuario al arsenal de Leon y mostrarlas. """
 
 n = int(input("Cuántas armas desea agregar al arsenal: "))

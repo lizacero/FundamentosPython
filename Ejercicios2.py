@@ -1,3 +1,5 @@
+#Ejercicios de estructuras condicionales y cíclicas
+
 """ 1. Para comprar una poción roja, Link necesita 30 rupias. Hacer un programa que permita ingresar un número
     de rupias y mostrar su puede comprar o no la poción, en caso de que no, decir cuantas rupias le faltan."""
 
